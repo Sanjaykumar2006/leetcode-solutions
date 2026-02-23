@@ -11,5 +11,5 @@ void moveZeroes(int* nums, int numsSize) {
     for (int i = numsSize - b; i < numsSize; i++) {
         nums[i] = 0;
     }
-    // return nums;
+    
 }
